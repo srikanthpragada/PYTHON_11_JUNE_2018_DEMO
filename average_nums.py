@@ -11,3 +11,7 @@ while True:
     count += 1
 
 print("Average = ", sum // count)
+
+s= "Python"
+print(s)
+print('-' * len(s))
