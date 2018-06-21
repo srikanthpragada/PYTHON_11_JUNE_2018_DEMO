@@ -1,3 +1,8 @@
+def set_to_zero(n):
+    print( id(n))
+    n = 0
+    print( id(n))
+
 def swap(n1, n2):
     print(id(n1), id(n2))
     t = n1
@@ -7,7 +12,12 @@ def swap(n1, n2):
 
 
 a = 10
-b = 20
-print(id(a), id(b))
-swap(a, b)
-print(a, b)
+print(id(a))
+set_to_zero(a)
+print(a)
+
+# b = 20
+# print(id(a), id(b))
+# swap(a, b)
+# print(a, b)
+
