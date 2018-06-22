@@ -5,6 +5,15 @@ else:  # Module is being imported
 
 
 def add(n1, n2):
+    """
+    Adds two numbers
+
+    Args:
+        n1 (int) : first number.
+        n2 (int) : second number.
+
+    Returns: int : Sum of the given two numbers.
+    """
     return n1 + n2
 
 
