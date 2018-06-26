@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e285fb78-7c78-40ba-adc0-f64036e56462" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/oop/account.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/account.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/Person.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/minh1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/student.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,24 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="local_function.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/functions/local_function.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="variables_scope.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/functions/variables_scope.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="num_functions.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/functions/num_functions.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -67,19 +52,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="account.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="account.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/oop/account.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-              <folding>
-                <element signature="e#258#345#0" />
-                <element signature="e#179#203#0" />
-                <element signature="e#245#266#0" />
-                <element signature="e#338#359#0" />
-                <element signature="e#236#300#0" />
-                <element signature="e#397#513#0" />
-              </folding>
+            <state relative-caret-position="-57">
+              <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Person.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oop/Person.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="student.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oop/student.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="24" column="16" lean-forward="true" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="minh1.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/oop/minh1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -98,15 +102,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="19">
               <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="use_num_functions.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/functions/use_num_functions.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -156,6 +151,9 @@
         <option value="$PROJECT_DIR$/hr/jobs.py" />
         <option value="$PROJECT_DIR$/hr/__init__.py" />
         <option value="$PROJECT_DIR$/oop/account.py" />
+        <option value="$PROJECT_DIR$/oop/Person.py" />
+        <option value="$PROJECT_DIR$/oop/Student.py" />
+        <option value="$PROJECT_DIR$/oop/minh1.py" />
       </list>
     </option>
   </component>
@@ -180,6 +178,11 @@
             <path>
               <item name="demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="oop" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -211,7 +214,43 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.account">
+  <component name="RunManager" selected="Python.minh1">
+    <configuration name="Person" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oop" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oop/Person.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Student" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oop" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="E:\classroom\python\june11\demo\oop\student.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="account" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -248,7 +287,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="num_functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="minh1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -256,66 +295,30 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oop" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions/num_functions.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="use_num_functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="demo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions/use_num_functions.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="variables_scope" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="demo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions/variables_scope.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oop/minh1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.variables_scope" />
-      <item itemvalue="Python.use_num_functions" />
-      <item itemvalue="Python.num_functions" />
       <item itemvalue="Python.commonfactors" />
       <item itemvalue="Python.account" />
+      <item itemvalue="Python.Person" />
+      <item itemvalue="Python.Student" />
+      <item itemvalue="Python.minh1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.minh1" />
+        <item itemvalue="Python.Student" />
+        <item itemvalue="Python.Person" />
         <item itemvalue="Python.account" />
         <item itemvalue="Python.commonfactors" />
-        <item itemvalue="Python.num_functions" />
-        <item itemvalue="Python.use_num_functions" />
-        <item itemvalue="Python.variables_scope" />
       </list>
     </recent_temporary>
   </component>
@@ -335,12 +338,12 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1703125" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15625" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.07796102" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27586207" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -358,27 +361,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/functions/fundemo4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/even.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex/word_pos.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ex/password_check.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -710,16 +692,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/oop/account.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-          <folding>
-            <element signature="e#258#345#0" />
-            <element signature="e#179#203#0" />
-            <element signature="e#245#266#0" />
-            <element signature="e#338#359#0" />
-            <element signature="e#236#300#0" />
-            <element signature="e#397#513#0" />
-          </folding>
+        <state relative-caret-position="-57">
+          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oop/Person.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oop/student.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="16" lean-forward="true" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oop/minh1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
