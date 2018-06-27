@@ -10,7 +10,9 @@ class Person:
 
     def __del__(self):
         Person.count -= 1
+        print("Deleting ", self)
         Person.persons.remove(self)
+
 
     def __str__(self):
         return  self.name + "," + self.mobile
